@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daryl Gubler</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/gubler&quot;&gt;@gubler on Micro.blog&lt;/a&gt;.</description>
+    <link>http://microblog.dev88.co/</link>
+    <pubDate>Sat, 13 Jan 2018 00:29:47 -0500</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2018 00:29:47 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;img src=&quot;http://microblog.dev88.co/uploads/2018/c0d8fe68a9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2018 00:16:00 -0500</pubDate>
+        <link>http://microblog.dev88.co/2018/01/13/051631.html</link>
+        <guid isPermaLink="true">http://gubler.micro.blog/2018/01/13/051631.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;System Testing&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2018 00:03:00 -0500</pubDate>
+        <link>http://microblog.dev88.co/2018/01/13/system-testing.html</link>
+        <guid isPermaLink="true">http://gubler.micro.blog/2018/01/13/system-testing.html</guid>
+      </item>
+    
+  </channel>
+</rss>
