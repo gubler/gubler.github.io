@@ -1,0 +1,25 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Daryl Gubler",
+	"home_page_url": "http://microblog.dev88.co/",
+	"feed_url": "http://microblog.dev88.co/feed.json",
+	"items": [
+		
+		{
+			"id": "http://gubler.micro.blog/2018/01/13/051631.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.dev88.co/uploads/2018/c0d8fe68a9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-13T00:16:00-05:00",
+			"url": "http://microblog.dev88.co/2018/01/13/051631.html"
+		},
+		
+		{
+			"id": "http://gubler.micro.blog/2018/01/13/system-testing.html",
+	      	
+			"content_html": "<p>System Testing</p>\n",
+			"date_published": "2018-01-13T00:03:00-05:00",
+			"url": "http://microblog.dev88.co/2018/01/13/system-testing.html"
+		}
+		
+	]
+}
