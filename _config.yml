@@ -1,0 +1,37 @@
+# Dependencies
+# - markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+# - permalink:        pretty
+# - relative_permalinks: true
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+title: "Daryl Gubler"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/gubler\">@gubler on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/gubler\">@gubler on Micro.blog</a>."
+baseurl: ""
+url: "http://microblog.dev88.co"
+markdown: "kramdown"
+username: "gubler"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Daryl Gubler"
+name: "Daryl Gubler"
+gravatar_hash: "aa560c91344f479a5589a8f881cc0077"
+avatar: "https://micro.blog/gubler/avatar.jpg"
+full_name: "Daryl Gubler"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "2462"
