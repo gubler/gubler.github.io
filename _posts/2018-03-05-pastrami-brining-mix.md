@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-05 18:54 -0500
+audio: 
+date: 2018-03-05 19:54:28 -0400
 guid: http://gubler.micro.blog/2018/03/05/pastrami-brining-mix.html
 ---
 Pastrami brining mix
