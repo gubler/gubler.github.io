@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-16 06:55 -0500
+audio: 
+date: 2018-01-16 07:55:46 -0400
 guid: http://gubler.micro.blog/2018/01/16/too-much-gravity.html
 ---
 Too much gravity.
