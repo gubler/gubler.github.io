@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-02-19 19:23 -0500
+audio: 
+date: 2017-02-19 20:23:43 -0400
 guid: http://gubler.micro.blog/2017/02/20/hungry-pup.html
 ---
 Hungry pup
