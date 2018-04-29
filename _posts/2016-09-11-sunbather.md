@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2016-09-11 18:39 -0500
+audio: 
+date: 2016-09-11 19:39:09 -0400
 guid: http://gubler.micro.blog/2016/09/11/sunbather.html
 ---
 Sunbather
