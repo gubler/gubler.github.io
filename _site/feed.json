@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gubler.micro.blog/2018/05/18/and-clutch-announced.html",
+	      	
+			"content_html": "<p>And Clutch announced their <a href=\"https://itunes.apple.com/us/album/book-of-bad-decisions/1376829212\">new album</a>.</p>\n\n<p><a href=\"https://itunes.apple.com/us/album/gimme-the-keys/1376829212?i=1376829216\">The first track</a> is pretty rocking, too.</p>\n",
+			"date_published": "2018-05-18T15:06:12-04:00",
+			"url": "http://microblog.dev88.co/2018/05/18/and-clutch-announced.html"
+		},
+		
+		{
 			"id": "http://gubler.micro.blog/2018/05/18/its-a-good.html",
 	      	
 			"content_html": "<p>It’s a good day when new albums for both <a href=\"https://itunes.apple.com/us/album/queen-of-time/1358710019\">Amorphis</a> and <a href=\"https://itunes.apple.com/us/album/liquid-anatomy/1354934999\">Alkaloid</a> drop.</p>\n",
